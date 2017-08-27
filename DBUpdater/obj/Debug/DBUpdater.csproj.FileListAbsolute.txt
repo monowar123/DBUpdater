@@ -1,0 +1,12 @@
+C:\Users\HDSL115\Desktop\DBUpdater\DBUpdater\bin\Debug\DBUpdater.exe.config
+C:\Users\HDSL115\Desktop\DBUpdater\DBUpdater\bin\Debug\DBUpdater.exe
+C:\Users\HDSL115\Desktop\DBUpdater\DBUpdater\bin\Debug\DBUpdater.pdb
+C:\Users\HDSL115\Desktop\DBUpdater\DBUpdater\obj\Debug\DBUpdater.exe
+C:\Users\HDSL115\Desktop\DBUpdater\DBUpdater\obj\Debug\DBUpdater.pdb
+C:\Users\HDSL115\Desktop\DBUpdater\DBUpdater\obj\Debug\DBUpdater.csprojResolveAssemblyReference.cache
+E:\DBUpdater\DBUpdater\bin\Debug\DBUpdater.exe.config
+E:\DBUpdater\DBUpdater\obj\Debug\DBUpdater.exe
+E:\DBUpdater\DBUpdater\obj\Debug\DBUpdater.pdb
+E:\DBUpdater\DBUpdater\bin\Debug\DBUpdater.exe
+E:\DBUpdater\DBUpdater\bin\Debug\DBUpdater.pdb
+E:\DBUpdater\DBUpdater\obj\Debug\DBUpdater.csprojResolveAssemblyReference.cache
